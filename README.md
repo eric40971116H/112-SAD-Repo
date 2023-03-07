@@ -11,6 +11,8 @@
 >第一周
 >
 >第二周
+>
+>第三周:[gitmind](https://gitmind.com/app/docs/m82wtyhe)
 ***
 ## 作業連結
 + [作業1]()
