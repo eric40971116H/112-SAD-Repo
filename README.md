@@ -19,6 +19,7 @@
 >第三周:[gitmind](https://gitmind.com/app/docs/m82wtyhe)
 ***
 ## 作業連結
-+ [作業1]()
++ [作業1](https://youtu.be/YGv-bYSCGbU)
++ [心智圖](https://gitmind.com/app/docs/m82wtyhe)
 ***
 ## 專題
