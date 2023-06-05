@@ -1,0 +1,34 @@
+.links {
+  display: inline-block;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  margin-left: -20vw;
+}
+.linkbtn {
+  display: flex;
+  width: 40vw;
+  align-items: center;
+  font-size: 36px;
+  margin-top: 1rem;
+  justify-content: space-between;
+  background-color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
+@media only screen and (max-width: 1000px) {
+  .links {
+    margin-left: -30vw;
+  }
+  .linkbtn {
+    width: 60vw;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .links {
+    margin-left: -48vw;
+  }
+  .linkbtn {
+    width: 96vw;
+  }
+}

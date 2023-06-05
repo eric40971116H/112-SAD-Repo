@@ -1,0 +1,16 @@
+.channel-cards {
+  display: flex;
+  width: 100vw;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.no-result {
+  display: block;
+  width: 100vw;
+  font-size: 28px;
+}
+input {
+  width: 300px;
+  align-items: center;
+}
